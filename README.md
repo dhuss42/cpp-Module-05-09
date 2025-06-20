@@ -2,6 +2,7 @@
 This is an overview of the second cpp module at 42 that I have completed. Clicking on the blue module names will route you to the github repositories of the project in question.
 
 ## [c++ 05](https://github.com/dhuss42/cpp05)  
+exceptions
 
 ## [c++ 06](https://github.com/dhuss42/cpp06)
 casts in c++
