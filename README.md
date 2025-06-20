@@ -6,13 +6,11 @@ This is an overview of the second cpp module at 42 that I have completed. Clicki
 ## [c++ 06](https://github.com/dhuss42/cpp06)
 casts in c++
 
-## [c++ 02](https://github.com/dhuss42/cpp02)  
-Ad-hoc polymorphism, operator overloading
-and the Orthodox Canonical class form
+## [c++ 07](https://github.com/dhuss42/cpp07)
+templates in c++
 
-## [c++ 03](https://github.com/dhuss42/cpp03)  
-Inheritance
+## [c++ 08](https://github.com/dhuss42/cpp08)
+Templated containers, iterators, algorithms
 
-## [c++ 04](https://github.com/dhuss42/cpp04) 
-Subtype Polymorphism, Abstract Classes, and
-Interfaces
+## [c++ 09](https://github.com/dhuss42/cpp09) 
+STL
