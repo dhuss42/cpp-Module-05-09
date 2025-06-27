@@ -14,4 +14,4 @@ This project is about  templates.
 This project is about templated containers, iterators and algorithms.
 
 ## [c++ 09](https://github.com/dhuss42/cpp09) 
-STL
+STL container manipulation and algorithm design
